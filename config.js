@@ -14,7 +14,7 @@ window.VB_CONFIG = {
   // Set to e.g. 30 to refresh on a timer instead.
   viewerRefreshSeconds: 0,
 
-  firebase: null,
+  firebase: { apiKey: "AIzaSyDa1DLgtEv4D0zjIu18inP_5gWSmNpDMQo", authDomain: "duke-vb-scores.firebaseapp.com", projectId: "duke-vb-scores", storageBucket: "duke-vb-scores.firebasestorage.app", messagingSenderId: "186503845345", appId: "1:186503845345:web:0b3e20d78fdb692065aea0" },
   /* Example — replace with yours:
   firebase: {
     apiKey: "AIza...",
